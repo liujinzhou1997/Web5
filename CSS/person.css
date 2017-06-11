@@ -1,0 +1,232 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+a{text-decoration:none;}
+#collegelogo{
+	width:1335px;
+	height:25px;
+	margin:0px auto;
+	background-color:white;
+}
+#cl1{
+	width:100px;
+	height:25px;
+	float:left;
+}
+#cl2{
+	line-height:30px;
+	color:red;
+	font-size:13px;
+	font-family:"楷体";
+	height:25px;
+	float:left;
+	margin-left:400px;
+}
+#cl3{
+	line-height:30px;
+	color:black;
+	font-size:13px;
+	font-family:"楷体";
+	width:400px;
+	height:25px;
+	float:left;
+	margin-left:160px;
+}
+#top{
+	width:1332px;
+	height:222px;
+	border:1px solid grey;
+	margin:0px auto;
+	margin-top:3px;
+	background-image:url(../images/top3.png);
+}
+#gsign{
+	margin-left:40px;
+	margin-top:25px;
+	width:166px;
+	height:166px;
+	float:left;
+}
+#center{
+	width:70%;
+	height:1290px;
+	border:1px solid black;
+	margin:0px auto;
+	background-color:white;
+}
+#banner{
+	width:94%;
+	height:31px;
+	border:2px solid grey;
+	background-image:url(../images/banner.png);
+	color:grey;
+	margin:0px auto;
+}
+#menu ul li{
+	padding:6px;
+	display:inline;
+	font-size:14px; 
+	line-height:32px;
+	color:grey;
+}
+a:link{color:black;}
+a:visited{color:black;}
+a:hover{color:orange;}
+a:active{color:green;}
+#menu a:link{color:#595959;}
+#menu a:visited{color:#595959;}
+#menu a:hover{color:orange;}
+#menu a:active{color:green;}
+#ctopleft{
+	margin-top:10px;
+	width:435px;
+	height:300px;
+	border:2px solid grey;
+	float:left;
+}
+#ctopright{
+	margin-top:10px;
+	width:435px;
+	height:300px;
+	border:2px solid grey;
+	float:left;
+}
+#center{
+	width:70%;
+	height:1200px;
+	border:1px solid black;
+	margin:0px auto;
+	background-color:white;
+}
+#banner{
+	width:94%;
+	height:31px;
+	border:2px solid grey;
+	background-image:url(../images/banner.png);
+	color:grey;
+	margin:0px auto;
+}
+#bottom{
+	width:100%;
+	height:90px;
+	background-color:black;
+	border:2px solid grey;
+	color:white;
+	float:left;
+}
+.b1{
+	line-height:30px;
+	font-size:14px;
+}
+#cleft{
+	margin-top:10px;
+	width:74%;
+	height:1090px;
+	border-bottom:2px solid black;
+	float:left;
+}
+#cright{
+	margin-top:10px;
+	width:25%;
+	height:1150px;
+	float:left;
+}
+#shidagif{
+	border-bottom:2px dotted grey;
+}
+#title{
+	font-size:23px;
+	font-family:"黑体";
+	width:100%;
+	height:60px;
+	border-bottom:2px solid black;
+	line-height:60px;
+}
+#autor{
+	margin-top:10px;
+	font-size:13px;
+	color:grey;
+}
+#green{
+	color:#7CCD7C;
+}
+#zhaohuiyin p{
+	text-indent:2em;
+	line-height:30px;
+	font-size:15px;
+	font-family:"楷体";
+}
+#pic41{
+	width:150px;
+	height:200px;
+	border:2px solid #7B68EE;
+	margin-left:30px;
+	margin-top:10px;
+	float:left;
+}
+#w640{
+	float:left;
+	width:60%;
+	height:240px;
+}
+#p640{
+	float:left;
+	width:39%;
+	height:240px;
+	border:2px solid #7B68EE;
+}
+#p650{
+	float:left;
+	width:39%;
+	height:241px;
+	border:2px solid #7B68EE;
+}
+#w650{
+	float:left;
+	width:60%;
+	height:240px;
+}
+#botto{
+	margin-top:20px;
+	width:100%;
+	height:50px;
+	float:left;
+}
+#botto li{
+	padding:17px;
+	display:inline;
+}
+#bul{
+	margin:0px auto;
+	margin-top:20px;
+	width:540px;
+	height:30px;
+}
+#bul a:link{color:#66CD00;}
+#bul a:visited{color:#66CD00;}
+#bul a:hover{color:orange;}
+#bul a:active{color:red;}
+#zhuren{
+	color:#DA70D6;
+}
+#normal{
+	margin-top:20px;
+	margin-left:20px;
+	width:200px;
+	height:200px;
+	border:2px #B0C4DE dotted;
+}
+#right1{
+	font-size:13px;
+	line-height:35px;
+}
+#right1 li{
+	list-style-position:inside;
+	list-style-image:url(../images/666.png);
+}
+.daofeng{
+	width:100%;
+	height:150px;
+	border:2px #A2CD5A solid;
+}
